@@ -1,3 +1,5 @@
+Hey there, I was annoyed that i could not run RTX Resource Packs and other custom Resource Packs on a Realm that forces Resource Packs, i made this with OpenAI's models and hope it helps someone. As you will read in the next lines this is fully slopped and i don't intend to maintain this unless i need it, feel free to fork and do whatever you like, its MIT licensed so do however you wish and hopefully you can now get better looking Minecraft Bedrock too or well, use Java. :)
+
 # Realm RTX Proxy
 
 > **AI-WRITTEN — Co-authored with OpenAI Codex.** The original implementation and documentation were written by OpenAI Codex under human direction; a human performed runtime testing. This is not a claim that a human reviewed every line. See [AI-DISCLOSURE.md](AI-DISCLOSURE.md).
