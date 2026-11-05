@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+state/
+auth/
+privatekeys/
+logs/
+temp/
+.auth-cache/
+realm-pack-proxy-auth-*/
+*.log

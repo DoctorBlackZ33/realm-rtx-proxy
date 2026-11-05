@@ -1,0 +1,28 @@
+{
+  "name": "realm-rtx-proxy",
+  "version": "1.0.0",
+  "description": "AI-written and co-authored by OpenAI Codex: a local proxy for Minecraft Bedrock Realm RTX resource packs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "author": "DoctorBlackZ33",
+  "contributors": [
+    "OpenAI Codex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorBlackZ33/realm-rtx-proxy.git"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "bedrock-protocol": "3.61.0",
+    "jsonwebtoken": "9.0.3",
+    "nethernet": "1.1.2",
+    "prismarine-xbox-services": "https://codeload.github.com/PrismarineJS/prismarine-xbox-services/tar.gz/052a9676f514c5470a723651b1dbb1adcf238944",
+    "raknet-native": "1.2.3"
+  }
+}
